@@ -1,6 +1,9 @@
 # Web Contador de Passos
 
-Web solicita ao usuário que digite um valor numérico inicial e final, alémd e um numero de passos que deseja contar entre esses valores após clicar em "Contar", os valores, junto com emoticons, informará o resultado.
+Web solicita ao usuário que digite um valor numérico inicial e final.
+Também solicita um número de passos que deseja contar entre esses valores inciais e finais.</br>
+                            
+Os valores, junto com emoticons, informará o resultado.</br></br>
 
 _Exemplo:_
 
